@@ -1,0 +1,23 @@
+{
+  "title": "VET 436 - Small Mammal Medicine: Laboratory Manual",
+  "description": "Laboratory handouts for VET 436 Small Mammal Medicine at UC Davis School of Veterinary Medicine",
+  "author": "Hugues Beaufrere, Michelle Hawkins, David Guzman, Krista Keller, Ariella Darvish, Marina Liles",
+  "language": "en",
+  "styles": {
+    "website": "styles/website.css",
+    "ebook": "styles/ebook.css",
+    "pdf": "styles/pdf.css"
+  },
+  "pdf": {
+    "fontSize": 11,
+    "paperSize": "letter",
+    "margin": {
+      "right": 50,
+      "left": 50,
+      "top": 50,
+      "bottom": 50
+    },
+    "headerTemplate": " ",
+    "footerTemplate": " "
+  }
+}

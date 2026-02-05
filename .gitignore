@@ -1,0 +1,7 @@
+_book/
+node_modules/
+package-lock.json
+*.epub
+*.pdf
+extract_images.py
+.DS_Store
