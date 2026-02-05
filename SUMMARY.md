@@ -5,13 +5,14 @@
 ## Laboratory Sessions
 
 * [Lab 1: Clinical Anatomy](lab1/README.md)
+  * [Learning Outcomes](lab1/outcomes.md)
   * [Ferret Anatomy](lab1/ferret.md)
   * [Guinea Pig Anatomy](lab1/guinea-pig.md)
   * [Rat Anatomy](lab1/rat.md)
   * [Rabbit Anatomy](lab1/rabbit.md)
-  * [Learning Outcomes](lab1/outcomes.md)
 
 * [Lab 2: Physical Examination and Clinical Techniques](lab2/README.md)
+  * [Learning Outcomes](lab2/outcomes.md)
   * [Handling and Restraint](lab2/handling.md)
   * [Physical Examination Checklist](lab2/physical-exam.md)
   * [Procedures](lab2/procedures.md)
@@ -20,6 +21,7 @@
   * [Appendix C: Normative Values](lab2/appendix-c.md)
 
 * [Lab 3: Dentistry of Rabbits and Rodents](lab3/README.md)
+  * [Learning Outcomes](lab3/outcomes.md)
   * [Clinical Anatomy and Oral Examination](lab3/oral-exam.md)
   * [Occlusal Adjustments](lab3/occlusal-adjustments.md)
   * [Extraction of Incisors](lab3/extraction.md)
